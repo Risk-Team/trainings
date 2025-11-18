@@ -19,7 +19,7 @@ This repository contains all the necessary information and material for the miss
 | Time        | Slides                                             |
 |-------------|----------------------------------------------------|
 | 09:00-9:30 | Introductions and GCF project cycle (Riccardo)                   |          
-| 09:30-10:15 | [Present findings of report] (https://github.com/Risk-Team/trainings/edit/main/STP/Report_findings_overview.pptx)                                 |
+| 09:30-10:15 | [Present findings of report](https://github.com/Risk-Team/trainings/edit/main/STP/Report_findings_overview.pptx)                                 |
 | 10:15-10:30 | Coffee break                                     |
 | 10:30-11:30 | Discussion and questionnaire filling (to be added)                                |
 | 11:30-12:00 | Final wrap up                                 |
@@ -30,8 +30,8 @@ This repository contains all the necessary information and material for the miss
 | Time        | Slides                                             |
 |-------------|----------------------------------------------------|
 | 13:00-13:30 | Introductions and introduction to project safeguards (Riccardo)                   |  
-| 13:30-14:00 | [Present report adaptation recommendations] (https://github.com/Risk-Team/trainings/edit/main/STP/Report_adaptation_recommendations.pptx)                                 |
+| 13:30-14:00 | [Present report adaptation recommendations](https://github.com/Risk-Team/trainings/edit/main/STP/Report_adaptation_recommendations.pptx)                                 |
 | 14:00-14:15 | Questions and clarifications                                |
 | 14:15-14:30 | Coffee Break |
-| 14:30-15:30 | [Discussion and questionnaire filling] (https://github.com/Risk-Team/trainings/edit/main/STP/Adaptation_recommendation_questionnaire.docx)                                |
+| 14:30-15:30 | [Discussion and questionnaire filling](https://github.com/Risk-Team/trainings/edit/main/STP/Adaptation_recommendation_questionnaire.docx)                                |
 | 15:30-16:00 | Final wrap up                                 |
