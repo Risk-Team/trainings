@@ -33,5 +33,5 @@ This repository contains all the necessary information and material for the miss
 | 13:30-14:00 | [Present report adaptation recommendations](https://github.com/Risk-Team/trainings/edit/main/STP/presentations/Report_adaptation_recommendations.pdf)                                 |
 | 14:00-14:15 | Questions and clarifications                                |
 | 14:15-14:30 | Coffee Break |
-| 14:30-15:30 | [Discussion and questionnaire filling](https://github.com/Risk-Team/trainings/edit/main/STP/presentations/Adaptation_recommendation_questionnaire.docx)                                |
+| 14:30-15:30 | [Discussion and questionnaire filling](https://github.com/Risk-Team/trainings/edit/main/STP/presentations/Adaptation_recommendation_questionnaire.pdf)                                |
 | 15:30-16:00 | Final wrap up                                 |
