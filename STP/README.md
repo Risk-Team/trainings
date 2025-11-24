@@ -3,7 +3,28 @@
 This repository contains all the necessary information and material for the mission to São Tomé and Príncipe in November/December 2025. 
 
 
-## Day 1 - Technical training workshop (Monday 1st December)
+## Day 1  afternoon - Introduction and report overview (Monday 1st December)
+
+| Time        | Slides                                             |
+|-------------|----------------------------------------------------|
+| 13:00-13:30 | Welcoming remarks and agenda                   |        
+| 13:30-14:00 | Project overview and Green Climate Fund's purpose                  |    
+| 14:00-15:00 | Core concepts on Climate Change Adaptation  |
+| 15:00-15:15 | Coffee break                                     |
+| 15:15-16:00 | [Present findings of report](https://github.com/Risk-Team/trainings/edit/main/STP/presentations/Report_findings_overview.pdf)    |
+| 16:00-16:30 | Final wrap up                                 |
+
+## Day 2 morning - Adaptation recommendations (Tuesday 2nd December)
+
+| Time        | Slides                                             |
+|-------------|----------------------------------------------------|
+| 9:00-9:15 | [Present adaptation questionnaire](https://github.com/Risk-Team/trainings/edit/main/STP/presentations/Report_adaptation_recommendations.pdf)        |
+| 9:15-10:00 | [Questionnaire filling](https://github.com/Risk-Team/trainings/edit/main/STP/presentations/Adaptation_recommendation_questionnaire.pdf)        |
+| 10:00-10:30 | Coffee Break |
+| 10:30-11:30 |    Discussion of results      |
+| 11:30-12:00 | Final wrap up                                 |
+
+## Day 2 afternoon - Training needs (Tuesday 2nd December)
 
 | Time        | Slides                                             |
 |-------------|----------------------------------------------------|
@@ -14,24 +35,4 @@ This repository contains all the necessary information and material for the miss
 | 15:30-16:00 | Discussion, comments                                 |
 
 
-## Day 2 morning - GCF cycle and report overview (Tuesday 2nd December)
 
-| Time        | Slides                                             |
-|-------------|----------------------------------------------------|
-| 09:00-9:30 | Introductions and GCF project cycle (Riccardo)                   |          
-| 09:30-10:15 | [Present findings of report](https://github.com/Risk-Team/trainings/edit/main/STP/presentations/Report_findings_overview.pdf)                                 |
-| 10:15-10:30 | Coffee break                                     |
-| 10:30-11:30 | Discussion and questionnaire filling (to be added)                                |
-| 11:30-12:00 | Final wrap up                                 |
-
-
-## Day 2 afternoon - Adaptation recommendations (Tuesday 2nd December)
-
-| Time        | Slides                                             |
-|-------------|----------------------------------------------------|
-| 13:00-13:30 | Introductions and introduction to project safeguards (Riccardo)                   |  
-| 13:30-14:00 | [Present report adaptation recommendations](https://github.com/Risk-Team/trainings/edit/main/STP/presentations/Report_adaptation_recommendations.pdf)                                 |
-| 14:00-14:15 | Questions and clarifications                                |
-| 14:15-14:30 | Coffee Break |
-| 14:30-15:30 | [Discussion and questionnaire filling](https://github.com/Risk-Team/trainings/edit/main/STP/presentations/Adaptation_recommendation_questionnaire.pdf)                                |
-| 15:30-16:00 | Final wrap up                                 |
