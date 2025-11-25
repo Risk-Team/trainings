@@ -22,7 +22,7 @@ This repository contains all the necessary information and material for the miss
 | 14:00-14:30 | [Questionnaire filling](https://github.com/Risk-Team/trainings/edit/main/STP/presentations/Adaptation_recommendation_questionnaire.pdf)        |
 | 14:30-15:00 | Coffee Break |
 | 15:00-16:00 |    Discussion of results      |
-| 16:00-16:30 | Final wrap up                                 |
+| 16:00-16:30 | Environmenral and Social Risk                         |
 
 ## Day 2 Morning - Training needs
 
