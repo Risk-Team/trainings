@@ -28,8 +28,8 @@ This repository contains all the necessary information and material for the miss
 
 | Time        | Slides                                             |
 |-------------|----------------------------------------------------|
-| 13:00-13:30 | Workshop overview and instructions                   |          
-| 13:30-14:30 | [CAVA Analytics]                                    |
+| 13:00-13:30 | Understanding training needs                   |          
+| 13:30-14:30 | [Climate analyses]                                    |
 | 14:30-15:00 | [Fish biomass impact modelling](https://github.com/Risk-Team/trainings/edit/main/STP/presentations/Impact_model_technical_training.pdf)                                     |
 | 15:00-15:30 | [Species distribution modelling for fisheries](https://github.com/Risk-Team/trainings/edit/main/STP/presentations/SDM_technical_training.pdf)                                  |
 | 15:30-16:00 | Discussion, comments                                 |
