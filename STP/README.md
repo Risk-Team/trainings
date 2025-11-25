@@ -9,9 +9,9 @@ This repository contains all the necessary information and material for the miss
 |-------------|----------------------------------------------------|
 | 13:00-13:30 | Welcoming remarks and agenda                   |        
 | 13:30-14:00 | Project overview and Green Climate Fund's purpose                  |    
-| 14:00-15:00 | Core concepts on Climate Change Adaptation  |
-| 15:00-15:15 | Coffee break                                     |
-| 15:15-16:00 | [Present findings of report](https://github.com/Risk-Team/trainings/edit/main/STP/presentations/Report_findings_overview.pdf)    |
+| 14:00-14:30 | Core concepts on Climate Change Adaptation  |
+| 14:30-14:45 | Coffee break                                     |
+| 14:45-16:00 | [Present findings of report](https://github.com/Risk-Team/trainings/edit/main/STP/presentations/Report_findings_overview.pdf)    |
 | 16:00-16:30 | Final wrap up                                 |
 
 ## Day 2 morning - Adaptation recommendations (Tuesday 2nd December)
