@@ -3,7 +3,7 @@
 This repository contains all the necessary information and material for the mission to São Tomé and Príncipe in November/December 2025. 
 
 
-## Day 1  afternoon - Introduction and report overview (Monday 1st December)
+## Day 1  afternoon - Introduction and report overview
 
 | Time        | Slides                                             |
 |-------------|----------------------------------------------------|
@@ -14,7 +14,7 @@ This repository contains all the necessary information and material for the miss
 | 14:45-16:00 | [Present findings of report](https://github.com/Risk-Team/trainings/edit/main/STP/presentations/Report_findings_overview.pdf)    |
 | 16:00-16:30 | Final wrap up                                 |
 
-## Day 2 morning - Adaptation recommendations (Tuesday 2nd December)
+## Day 2 morning - Adaptation recommendations
 
 | Time        | Slides                                             |
 |-------------|----------------------------------------------------|
@@ -24,7 +24,7 @@ This repository contains all the necessary information and material for the miss
 | 10:30-11:30 |    Discussion of results      |
 | 11:30-12:00 | Final wrap up                                 |
 
-## Day 2 afternoon - Training needs (Tuesday 2nd December)
+## Day 2 afternoon - Training needs
 
 | Time        | Slides                                             |
 |-------------|----------------------------------------------------|
