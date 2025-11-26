@@ -19,7 +19,7 @@ This repository contains all the necessary information and material for the work
 
 | Time             | Slides                                             |
 |------------------|----------------------------------------------------|
-| 13:30-15:00      | Session III: Introduction to CAVA                  |
+| 13:30-15:00      | [Session III: Introduction to CAVA]https://github.com/Risk-Team/trainings/blob/main/Yemen/Session%20III.%20Introduction%20to%20CAVA.pdf)                  |
 | 15:00-15:30      | Coffee Break                                       |
 | 15:30-16:15      | [Session III: Introduction to CAVA: hands-on exercises](https://github.com/Risk-Team/trainings/blob/main/Yemen/Session%20III.%20Hands%20on%20exercise%20CAVA.pdf)                  |
                
