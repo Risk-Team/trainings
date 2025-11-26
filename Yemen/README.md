@@ -21,7 +21,7 @@ This repository contains all the necessary information and material for the work
 |------------------|----------------------------------------------------|
 | 13:30-15:00      | Session III: Introduction to CAVA                  |
 | 15:00-15:30      | Coffee Break                                       |
-| 15:30-16:15      | Session III: Introduction to CAVA                  |
+| 15:30-16:15      | [Session III: Introduction to CAVA: hands-on exercises]                  |
                
 
 ## Day 2  Morning 
