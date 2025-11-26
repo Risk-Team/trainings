@@ -1,18 +1,18 @@
-# JORGE
+# Building Capacity for Climate Risk Analysis: Methods, Tools, and Applications for Yemen’s Agriculture and Related Sectors
 
-This repository contains all the necessary information and material for the mission to São Tomé and Príncipe in November/December 2025. 
+
+This repository contains all the necessary information and material for the workshop. 
 
 
 ## Day 1  Morning - Introduction and report overview
 
 | Time        | Slides                                             |
 |-------------|----------------------------------------------------|
-| 9:00-9:30 | Welcoming remarks and agenda                   |        
-| 9:30-10:00 | Project overview and Green Climate Fund's purpose                  |    
-| 10:00-10:30 | Core concepts on Climate Change Adaptation  |
-| 10:30-10:45 | Coffee break                                     |
-| 10:45-12:00 | [Present findings of report](https://github.com/Risk-Team/trainings/edit/main/STP/presentations/Report_findings_overview.pdf)    |
-| 12:00-12:30 | Final wrap up                                 |
+| 9:00-9:30   | Welcoming remarks and agenda                       |        
+| 9:30-10:30  | Session I: CIPA framework                  |    
+| 10:30-11:00 | Coffee break  |
+| 11:00-12:15 | Session II: Ocean-atmospheric and climate analysis methodology  [Present findings of report](https://github.com/Risk-Team/trainings/Session II. Ocean-atmospheric & climate analysis methodology.pdf")                                    |
+| 12:15-13:30 | Lunch break    |
 
 ## Day 1 Afternoon - Adaptation recommendations
 
