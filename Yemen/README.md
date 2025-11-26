@@ -6,12 +6,12 @@ This repository contains all the necessary information and material for the work
 
 ## Day 1  Morning - Introduction and report overview
 
-| Time        | Slides                                             |
-|-------------|----------------------------------------------------|
-| 9:00-9:30   | Welcoming remarks and agenda                       |        
-| 9:30-10:30  | Session I: CIPA framework                  |    
-| 10:30-11:00 | Coffee break  |
-| 11:00-12:15 | Session II: Ocean-atmospheric and climate analysis methodology  [Present findings of report](https://github.com/Risk-Team/trainings/Yemen/Session II. Ocean-atmospheric & climate analysis methodology.pdf")                                    |
+| Time          | Slides                                             |
+|-------------  |----------------------------------------------------|
+| 9:00-9:30     | Welcoming remarks and agenda                       |        
+| 9:30-10:30    | Session I: CIPA framework                  |    
+| 10:30-11:00   | Coffee break  |
+| 11:00-12:15   | Session II: Ocean-atmospheric and climate analysis methodology  [Present findings of report](https://github.com/Risk-Team/trainings/Yemen/Session II. Ocean-atmospheric & climate analysis methodology.pdf")                                    |
 | 12:15-13:30 | Lunch break    |
 
 ## Day 1 Afternoon - Adaptation recommendations
