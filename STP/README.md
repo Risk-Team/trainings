@@ -3,36 +3,36 @@
 This repository contains all the necessary information and material for the mission to São Tomé and Príncipe in November/December 2025. 
 
 
-## Day 1  afternoon - Introduction and report overview (Monday 1st December)
+## Day 1  Morning - Introduction and report overview
 
 | Time        | Slides                                             |
 |-------------|----------------------------------------------------|
-| 13:00-13:30 | Welcoming remarks and agenda                   |        
-| 13:30-14:00 | Project overview and Green Climate Fund's purpose                  |    
-| 14:00-15:00 | Core concepts on Climate Change Adaptation  |
-| 15:00-15:15 | Coffee break                                     |
-| 15:15-16:00 | [Present findings of report](https://github.com/Risk-Team/trainings/edit/main/STP/presentations/Report_findings_overview.pdf)    |
-| 16:00-16:30 | Final wrap up                                 |
+| 9:00-9:30 | Welcoming remarks and agenda                   |        
+| 9:30-10:00 | Project overview and Green Climate Fund's purpose                  |    
+| 10:00-10:30 | Core concepts on Climate Change Adaptation  |
+| 10:30-10:45 | Coffee break                                     |
+| 10:45-12:00 | [Present findings of report](https://github.com/Risk-Team/trainings/edit/main/STP/presentations/Report_findings_overview.pdf)    |
+| 12:00-12:30 | Final wrap up                                 |
 
-## Day 2 morning - Adaptation recommendations (Tuesday 2nd December)
-
-| Time        | Slides                                             |
-|-------------|----------------------------------------------------|
-| 9:00-9:15 | [Present adaptation questionnaire](https://github.com/Risk-Team/trainings/edit/main/STP/presentations/Report_adaptation_recommendations.pdf)        |
-| 9:15-10:00 | [Questionnaire filling](https://github.com/Risk-Team/trainings/edit/main/STP/presentations/Adaptation_recommendation_questionnaire.pdf)        |
-| 10:00-10:30 | Coffee Break |
-| 10:30-11:30 |    Discussion of results      |
-| 11:30-12:00 | Final wrap up                                 |
-
-## Day 2 afternoon - Training needs (Tuesday 2nd December)
+## Day 1 Afternoon - Adaptation recommendations
 
 | Time        | Slides                                             |
 |-------------|----------------------------------------------------|
-| 13:00-13:30 | Workshop overview and instructions                   |          
-| 13:30-14:30 | [CAVA Analytics]                                    |
-| 14:30-15:00 | [Fish biomass impact modelling](https://github.com/Risk-Team/trainings/edit/main/STP/presentations/Impact_model_technical_training.pdf)                                     |
-| 15:00-15:30 | [Species distribution modelling for fisheries](https://github.com/Risk-Team/trainings/edit/main/STP/presentations/SDM_technical_training.pdf)                                  |
-| 15:30-16:00 | Discussion, comments                                 |
+| 13:30-14:00 | [Present adaptation questionnaire](https://github.com/Risk-Team/trainings/edit/main/STP/presentations/Report_adaptation_recommendations.pdf)        |
+| 14:00-14:30 | [Questionnaire filling](https://github.com/Risk-Team/trainings/edit/main/STP/presentations/Adaptation_recommendation_questionnaire.pdf)        |
+| 14:30-15:00 | Coffee Break |
+| 15:00-16:00 |    Discussion of results      |
+| 16:00-16:30 | Considering Environmenral and Social Risk                         |
+
+## Day 2 Morning - Training needs
+
+| Time        | Slides                                             |
+|-------------|----------------------------------------------------|
+| 9:00-9:30 | Overview of training topics                   |          
+| 9:30-10:00 | [Climate analyses]                                    |
+| 10:00-10:30 | [Fish biomass impact modelling](https://github.com/Risk-Team/trainings/edit/main/STP/presentations/Impact_model_technical_training.pdf)                                     |
+| 10:30-11:00 | [Species distribution modelling for fisheries](https://github.com/Risk-Team/trainings/edit/main/STP/presentations/SDM_technical_training.pdf)                                  |
+| 11:00-11:30 | Identification of training needs                                 |
 
 
 
