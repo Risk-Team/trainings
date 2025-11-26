@@ -1,4 +1,4 @@
-# Presenting report findings and training workshops: Climate change and climate change impacts on São Tomé and Príncipe with a focus on fishery and tourism sectors in a Blue Economy context
+# Presenting report findings and Yemen
 
 This repository contains all the necessary information and material for the mission to São Tomé and Príncipe in November/December 2025. 
 
