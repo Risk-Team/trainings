@@ -28,11 +28,12 @@ This repository contains all the necessary information and material for the miss
 
 | Time        | Slides                                             |
 |-------------|----------------------------------------------------|
-| 9:00-9:30 |   Overview of training options                 |          
-| 9:30-10:00 |  Climate analyses                                   |
-| 10:00-10:30 | [Fish biomass impact modelling](https://github.com/Risk-Team/trainings/edit/main/STP/presentations/Impact_model_technical_training.pdf)    |
-| 10:30-11:00 | [Species distribution modelling for fisheries](https://github.com/Risk-Team/trainings/edit/main/STP/presentations/SDM_technical_training.pdf)     |
-| 11:00-11:30 | Final wrap-up                                 |
+| 9:00-9:45 |   Open discussion with stakeholder (Capacity need assessment)                 |  
+| 9:45-10:15 |   Overview of training options               |          
+| 10:15-10:30 | Coffee break                |    
+| 10:30-11:00 |  Climate analyses for sectoral risk analytics |
+| 11:00-11:30 | [Fish biomass impact modelling](https://github.com/Risk-Team/trainings/edit/main/STP/presentations/Impact_model_technical_training.pdf)    |
+| 11:30-12:00 | [Species distribution modelling for fisheries](https://github.com/Risk-Team/trainings/edit/main/STP/presentations/SDM_technical_training.pdf)     |
 
 
 
