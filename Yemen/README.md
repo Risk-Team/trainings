@@ -17,7 +17,7 @@ This repository contains all the necessary information and material for the work
 
 ## Day 1 Afternoon 
 
-| Time             | Slides                                             |
+| Time             | Activity                                             |
 |------------------|----------------------------------------------------|
 | 13:30-15:00      | [Session III: Introduction to CAVA](https://github.com/Risk-Team/trainings/blob/main/Yemen/Session%20III.%20Introduction%20to%20CAVA.pdf)                  |
 | 15:00-15:30      | Coffee Break                                       |
@@ -26,7 +26,7 @@ This repository contains all the necessary information and material for the work
 
 ## Day 2  Morning 
 
-| Time             | Slides                                             |
+| Time             | Activity                                              |
 |------------------|----------------------------------------------------|
 | 9:00-10:30       | [Session IV: CIPA findings](https://github.com/Risk-Team/trainings/blob/main/Yemen/Session%20IV.%20CIPA%20findings.pdf)                       |                    
 | 10:30-11:00      | Coffee break                                       |
@@ -35,7 +35,7 @@ This repository contains all the necessary information and material for the work
 
 ## Day 2 Afternoon 
 
-| Time             | Slides                                             |
+| Time             | Activity                                              |
 |------------------|----------------------------------------------------|
 | 13:30-15:00      | Session V: Exploiting CAVA data                    |   
 | 15:00-15:30      | Coffee Break                                       |
@@ -43,7 +43,7 @@ This repository contains all the necessary information and material for the work
 
 ## Day 3  Morning 
 
-| Time             | Slides                                             |
+| Time             | Activity                                              |
 |------------------|----------------------------------------------------|
 | 9:00-10:30       | Session VI: CRTB                                   |        
 | 10:30-11:00      | Coffee break                                       |    
@@ -52,7 +52,7 @@ This repository contains all the necessary information and material for the work
 
 ## Day 3 Afternoon 
 
-| Time             | Slides                                             |
+| Time             | Activity                                             |
 |------------------|----------------------------------------------------|
 | 13:30-15:00      | Session VII: Hands-on-exervices CAVA (group presentations)      |
 | 15:00-15:30      | Coffee Break       |
