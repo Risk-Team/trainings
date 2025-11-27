@@ -30,7 +30,7 @@ This repository contains all the necessary information and material for the work
 |------------------|----------------------------------------------------|
 | 9:00-10:30       | [Session IV: CIPA findings](https://github.com/Risk-Team/trainings/blob/main/Yemen/Session%20IV.%20CIPA%20findings.pdf)                       |                    
 | 10:30-11:00      | Coffee break                                       |
-| 11:00-12:00      | [Session V: Exploiting CAVA data] (https://github.com/Risk-Team/trainings/blob/main/Yemen/Session%20V.%20Exploiting%20CAVA%20findings.pdf)                                     |                            
+| 11:00-12:00      | [Session V: Exploiting CAVA data](https://github.com/Risk-Team/trainings/blob/main/Yemen/Session%20V.%20Exploiting%20CAVA%20findings.pdf)                                     |                            
 | 12:00-13:30      | Lunch break                                        |
 
 ## Day 2 Afternoon 
