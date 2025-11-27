@@ -17,7 +17,7 @@ This repository contains all the necessary information and material for the miss
 
 | Time        | Slides                                             |
 |-------------|----------------------------------------------------|
-| 13:00-14:30 | [Present findings of report](https://github.com/Risk-Team/trainings/edit/main/STP/presentations/Report_findings_overview_port.pptx)    |
+| 13:00-14:30 | [Present findings of report](https://github.com/Risk-Team/trainings/blob/main/STP/presentations/Report_findings_overview_port.pptx)    |
 | 14:30-14:45 |    Coffee break      |
 | 14:45-15:15 | [Present adaptation questionnaire](https://github.com/Risk-Team/trainings/edit/main/STP/presentations/Adaptation_recommendations_port.pptx)        |
 | 15:15-16:00 | [Questionnaire filling](https://github.com/Risk-Team/trainings/edit/main/STP/presentations/Adaptation_recommendation_questionnaire.pdf)        |
