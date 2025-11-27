@@ -37,9 +37,9 @@ This repository contains all the necessary information and material for the work
 
 | Time             | Activity                                              |
 |------------------|----------------------------------------------------|
-| 13:30-15:00      | Session V: Exploiting CAVA data                    |   
+| 13:30-15:00      | [Session V: Exploiting CAVA data](https://github.com/Risk-Team/trainings/blob/main/Yemen/Session%20V.%20Exploiting%20CAVA%20findings.pdf)                   |   
 | 15:00-15:30      | Coffee Break                                       |
-| 15:30-16:15      | Session V: Exploiting CAVA data                    |   
+| 15:30-16:15      | [Session V: Exploiting CAVA data](https://github.com/Risk-Team/trainings/blob/main/Yemen/Session%20V.%20Exploiting%20CAVA%20findings.pdf)                 |   
 
 ## Day 3  Morning 
 
@@ -47,7 +47,7 @@ This repository contains all the necessary information and material for the work
 |------------------|----------------------------------------------------|
 | 9:00-10:30       | Session VI: CRTB                                   |        
 | 10:30-11:00      | Coffee break                                       |    
-| 11:00-12:00      | Session VII: Hands-on-exercises CAVA               |                                  
+| 11:00-12:00      | [Session VII: Hands-on-exercises CAVA](https://github.com/Risk-Team/trainings/blob/main/Yemen/Session%20V.%20Hands%20on%20exercise%20CAVA.pdf)              |                                  
 | 12:00-13:30      | Lunch break                                        |
 
 ## Day 3 Afternoon 
