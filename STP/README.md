@@ -24,15 +24,15 @@ This repository contains all the necessary information and material for the miss
 | 16:00-16:30 | Considering Environmenral and Social Risk  |
 | 16:30-17:00 | Discussions                    |
 
-## Day 2 Morning - Training needs
+## Day 2 Morning - Identification of training needs for climate change impacts and risks
 
 | Time        | Slides                                             |
 |-------------|----------------------------------------------------|
-| 9:00-9:30 | Overview of training topics                   |          
-| 9:30-10:00 | [Climate analyses]                                    |
-| 10:00-10:30 | [Fish biomass impact modelling](https://github.com/Risk-Team/trainings/edit/main/STP/presentations/Impact_model_technical_training.pdf)                                     |
-| 10:30-11:00 | [Species distribution modelling for fisheries](https://github.com/Risk-Team/trainings/edit/main/STP/presentations/SDM_technical_training.pdf)                                  |
-| 11:00-11:30 | Identification of training needs                                 |
+| 9:00-9:30 |   Overview of training options                 |          
+| 9:30-10:00 |  Climate analyses                                   |
+| 10:00-10:30 | [Fish biomass impact modelling](https://github.com/Risk-Team/trainings/edit/main/STP/presentations/Impact_model_technical_training.pdf)    |
+| 10:30-11:00 | [Species distribution modelling for fisheries](https://github.com/Risk-Team/trainings/edit/main/STP/presentations/SDM_technical_training.pdf)     |
+| 11:00-11:30 | Final wrap-up                                 |
 
 
 
