@@ -7,7 +7,7 @@ This repository contains all the necessary information and material for the work
 
 ## Day 1  Morning 
 
-| Time             | Slides                                             |
+| Time             | Activity                                            |
 |------------------|----------------------------------------------------|
 | 9:00-9:30        | Welcoming remarks and agenda                       |        
 | 9:30-10:30       | [Session I: CIPA framework](https://github.com/Risk-Team/trainings/blob/main/Yemen/Session%20I.%20CIPA%20framework.pdf)                       |    
