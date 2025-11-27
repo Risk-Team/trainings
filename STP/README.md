@@ -8,21 +8,21 @@ This repository contains all the necessary information and material for the miss
 | Time        | Slides                                             |
 |-------------|----------------------------------------------------|
 | 9:00-9:30 | Welcoming remarks and agenda                   |        
-| 9:30-10:00 | Project overview and Green Climate Fund's purpose                  |    
-| 10:00-10:30 | Core concepts on Climate Science, Climate Risks and adaptation  |
-| 10:30-10:45 | Coffee break                                     |
-| 10:45-12:00 | [Present findings of report](https://github.com/Risk-Team/trainings/edit/main/STP/presentations/Report_findings_overview.pdf)    |
-| 12:00-12:30 | Final wrap up                                 |
+| 9:30-10:15 | Open discussions with stakeholders                 |    
+| 10:15-10:30 | Coffee break                |    
+| 10:30-11:00 | Project overview and Green Climate Fund's purpose                  |    
+| 11:00-12:00 | Core concepts on Climate Science, Climate Risks and adaptation  |
 
 ## Day 1 Afternoon - Adaptation recommendations
 
 | Time        | Slides                                             |
 |-------------|----------------------------------------------------|
-| 13:30-14:00 | [Present adaptation questionnaire](https://github.com/Risk-Team/trainings/edit/main/STP/presentations/Report_adaptation_recommendations.pdf)        |
-| 14:00-14:30 | [Questionnaire filling](https://github.com/Risk-Team/trainings/edit/main/STP/presentations/Adaptation_recommendation_questionnaire.pdf)        |
-| 14:30-15:00 | Considering Environmenral and Social Risk  |
-| 15:00-15:30 |    Coffee break      |
-| 15:30-16:30 | Discussions                    |
+| 13:00-14:30 | [Present findings of report](https://github.com/Risk-Team/trainings/edit/main/STP/presentations/Report_findings_overview.pdf)    |
+| 14:30-14:45 |    Coffee break      |
+| 14:45-15:15 | [Present adaptation questionnaire](https://github.com/Risk-Team/trainings/edit/main/STP/presentations/Report_adaptation_recommendations.pdf)        |
+| 15:15-16:00 | [Questionnaire filling](https://github.com/Risk-Team/trainings/edit/main/STP/presentations/Adaptation_recommendation_questionnaire.pdf)        |
+| 16:00-16:30 | Considering Environmenral and Social Risk  |
+| 16:30-17:00 | Discussions                    |
 
 ## Day 2 Morning - Training needs
 
