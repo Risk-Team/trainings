@@ -45,7 +45,7 @@ This repository contains all the necessary information and material for the work
 
 | Time             | Activity                                              |
 |------------------|----------------------------------------------------|
-| 9:00-10:30       | Session VI: CRTB                                   |        
+| 9:00-10:30       | [Session VI: CRTB](https://github.com/Risk-Team/trainings/blob/main/Yemen/Session%20VI.%20CRTB.pdf)                                   |        
 | 10:30-11:00      | Coffee break                                       |    
 | 11:00-12:00      | [Session VII: Hands-on-exercises CAVA](https://github.com/Risk-Team/trainings/blob/main/Yemen/Session%20V.%20Hands%20on%20exercise%20CAVA.pdf)              |                                  
 | 12:00-13:30      | Lunch break                                        |
