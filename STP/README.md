@@ -7,7 +7,7 @@ This repository contains all the necessary information and material for the miss
 
 | Time        | Slides                                             |
 |-------------|----------------------------------------------------|
-| 9:00-9:30 | [Welcoming remarks and agenda](https://github.com/Risk-Team/trainings/blob/main/STP/presentations/Introduction%20and%20agenda.pptx)                   |        
+| 9:00-9:30 | [Welcoming remarks and agenda](https://github.com/Risk-Team/trainings/blob/main/STP/presentations/Sesssion_1/Introduction%20and%20agenda.pdf)                   |        
 | 9:30-10:15 | Open discussions with stakeholders                 |    
 | 10:15-10:30 | Coffee break                |    
 | 10:30-11:00 | [Project overview and Green Climate Fund's purpose](https://github.com/Risk-Team/trainings/blob/main/STP/presentations/GCF%20and%20climate%20change%20adaptation%20concepts.pptx)                  |    
