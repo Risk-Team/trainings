@@ -10,8 +10,8 @@ This repository contains all the necessary information and material for the miss
 | 9:00-9:30 | [Welcoming remarks and agenda](https://github.com/Risk-Team/trainings/blob/main/STP/presentations/Sesssion_1/Introduction%20and%20agenda.pdf)                   |        
 | 9:30-10:15 | Open discussions with stakeholders                 |    
 | 10:15-10:30 | Coffee break                |    
-| 10:30-11:00 | [Project overview and Green Climate Fund's purpose]([https://github.com/Risk-Team/trainings/blob/main/STP/presentations/GCF%20and%20climate%20change%20adaptation%20concepts.pptx](https://github.com/Risk-Team/trainings/blob/main/STP/presentations/Sesssion_1/GCF%20and%20climate%20change%20adaptation%20concepts.pdf))                  |    
-| 11:00-12:00 | [Core concepts on Climate Science, Climate Risks and adaptation]([https://github.com/Risk-Team/trainings/blob/main/STP/presentations/GCF%20and%20climate%20change%20adaptation%20concepts.pptx](https://github.com/Risk-Team/trainings/blob/main/STP/presentations/Sesssion_1/GCF%20and%20climate%20change%20adaptation%20concepts.pdf))  |
+| 10:30-11:00 | [Project overview and Green Climate Fund's purpose](https://github.com/Risk-Team/trainings/blob/main/STP/presentations/Sesssion_1/GCF%20and%20climate%20change%20adaptation%20concepts.pdf)                  |    
+| 11:00-12:00 | [Core concepts on Climate Science, Climate Risks and adaptation](https://github.com/Risk-Team/trainings/blob/main/STP/presentations/Sesssion_1/GCF%20and%20climate%20change%20adaptation%20concepts.pdf)  |
 
 ## Day 1 Afternoon - Adaptation recommendations
 
@@ -21,7 +21,7 @@ This repository contains all the necessary information and material for the miss
 | 14:30-14:45 |    Coffee break      |
 | 14:45-15:15 | [Present adaptation questionnaire](https://github.com/Risk-Team/trainings/blob/main/STP/presentations/Session_2/Adaptation_recommendations_port.pdf)        |
 | 15:15-15:45 | [Questionnaire filling](https://github.com/Risk-Team/trainings/blob/main/STP/presentations/Session_2/Adaptation_recommendation_questionnaire_port.pdf)        |
-| 15:45-16:00 | [Considering Environmental and Social Risk]([https://github.com/Risk-Team/trainings/blob/main/STP/presentations/Environmental%20and%20Social%20risks.pptx](https://github.com/Risk-Team/trainings/blob/main/STP/presentations/Session_3/Environmental%20and%20Social%20risks.pdf))  |
+| 15:45-16:00 | [Considering Environmental and Social Risk](https://github.com/Risk-Team/trainings/blob/main/STP/presentations/Session_3/Environmental%20and%20Social%20risks.pdf)  |
 | 16:00-17:00 | Discussions                    |
 
 ## Day 2 Morning - Identification of training needs for climate change impacts and risks
