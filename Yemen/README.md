@@ -58,3 +58,6 @@ This repository contains all the necessary information and material for the work
 | 15:00-15:30      | Coffee Break       |
 | 15:30-16:15      | Session VII: Hands-on-exervices CAVA (group presentations)  |
 
+## Other resources
+| [CAVA daily data ()]
+
