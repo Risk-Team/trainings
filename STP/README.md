@@ -21,7 +21,7 @@ This repository contains all the necessary information and material for the miss
 | 14:30-14:45 |    Coffee break      |
 | 14:45-15:15 | [Present adaptation questionnaire](https://github.com/Risk-Team/trainings/blob/main/STP/presentations/Session_2/Adaptation_recommendations_port.pdf)        |
 | 15:15-15:45 | [Questionnaire filling](https://github.com/Risk-Team/trainings/blob/main/STP/presentations/Session_2/Adaptation_recommendation_questionnaire_port.pdf)        |
-| 15:45-16:00 | [Considering Environmental and Social Risk](https://github.com/Risk-Team/trainings/blob/main/STP/presentations/Environmental%20and%20Social%20risks.pptx)  |
+| 15:45-16:00 | [Considering Environmental and Social Risk]([https://github.com/Risk-Team/trainings/blob/main/STP/presentations/Environmental%20and%20Social%20risks.pptx](https://github.com/Risk-Team/trainings/blob/main/STP/presentations/Session_3/Environmental%20and%20Social%20risks.pdf))  |
 | 16:00-17:00 | Discussions                    |
 
 ## Day 2 Morning - Identification of training needs for climate change impacts and risks
