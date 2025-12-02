@@ -10,7 +10,7 @@ This repository contains all the necessary information and material for the work
 | Time             | Activity                                            |
 |------------------|----------------------------------------------------|
 | 9:00-9:30        | Welcoming remarks and agenda                       |        
-| 9:30-10:30       | [Session I: CIPA framework](https://github.com/Risk-Team/trainings/blob/main/Yemen/Session%20I.%20CIPA%20framework.pdf)                       |    
+| 9:30-10:30       | [Session I: CIPA framework](https://github.com/Risk-Team/trainings/blob/main/Yemen/Session%20I.%20CIPAframework.pdf)                       |    
 | 10:30-11:00      | Coffee break  |
 | 11:00-12:00      | [Session II: Ocean-atmospheric and climate analysis methodology](https://github.com/Risk-Team/trainings/blob/main/Yemen/Session%20II.%20Ocean-atmospheric%20%26%20climate%20analysis%20methodology.pdf) |                                 
 | 12:00-13:30      | Lunch break    |
