@@ -60,4 +60,4 @@ This repository contains all the necessary information and material for the work
 
 ## Other resources
 |[Daily data visualization](https://github.com/Risk-Team/trainings/blob/main/Yemen/CAVA%20Daily%20data%20visualization.xlsx) |
-
+|[Guidance note CIPA] (https://github.com/Risk-Team/trainings/blob/main/Yemen/Guidance%20note%20CIPA.pdf) |
