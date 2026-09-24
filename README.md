@@ -2,7 +2,7 @@
 
 ### Training and workshop materials
 
-Materials for capacity development on environmental and social risk screening, and on climate and disaster risk. Each top-level folder is one body of work: a training programme, or a country mission.
+Materials for capacity development on everything around climate risks. Each top-level folder is one body of work: a training programme, or a country specific training. 
 
 ---
 
