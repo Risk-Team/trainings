@@ -1,46 +1,42 @@
-# FAO Climate Risk Team – Country Training & Workshop Materials
+# FAO Climate Risk Team
 
-This repository collects **training materials and workshops** developed by the FAO Climate Risk Team, organized **by country**.
+### Training and workshop materials
 
-Each country has its **own folder** containing slides, agendas, exercises and reference documents used for capacity development on:
-- Environmental and social risk screening
-- Climate and disaster risk
+Materials for capacity development on environmental and social risk screening, and on climate and disaster risk. Each top-level folder is one body of work: a training programme, or a country mission.
 
 ---
 
-## 📂 Repository Structure
+## Two kinds of folders
 
-The structure is intentionally simple:
+| | Folder | Contents |
+|---|---|---|
+| **Programme** | `CAVAtraining/` | Climate and Agriculture Vulnerability Assessment. Headquarters modules, country packages, and session materials. |
+| **Country** | `STP/`, `Yemen/`, … | Slides, agendas, exercises, and notes for a single mission or workshop. Named with a country name or ISO code. |
 
+```
 .
-├── README.md
-├── BRA/    # Brazil  
-├── KEN/    # Kenya  
-├── STP/    # São Tomé and Príncipe  
-├── ETH/    # Ethiopia  
-└── ...     # Other countries  
+├── CAVAtraining/     Programme materials
+│   ├── HQ/           Core modules
+│   └── PAK/          Country package
+├── STP/              São Tomé and Príncipe
+└── Yemen/            Yemen
+```
 
-
----
-
-## 🚀 How to Use
-
-1. **Choose a country**  
-   Go to the folder of the country you are working with (e.g. BRA, KEN, STP).
-
-2. **Browse the materials**  
-   - Look for the most recent workshop/training files.  
-   - Reuse or adapt agendas, slides and exercises for new sessions.
-
+Country folders often include their own `README.md` with the session agenda.
 
 ---
 
-## 🤝 Contributions
+## Using the materials
 
-If you update or add materials:
+Open the programme or country folder you need, and take the latest slides, agenda, and exercises for that session. Adapt them for the next delivery and keep the new files in the same folder.
 
-- Place them in the correct **country folder**.  
-- Use **descriptive file names** so others immediately know what the file is.  
- 
+When you add or revise materials:
+
+- Put programme files under `CAVAtraining/`, and mission files in the matching country folder.
+- Name files so the session, topic, and version are clear from the name.
+
 ---
 
+## Files kept outside Git
+
+Recordings, large data extracts, and local slide-build files stay on disk and are listed in `.gitignore`. The repository keeps the slides, notes, and exercises.

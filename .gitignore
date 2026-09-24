@@ -1,0 +1,9 @@
+# Large training recordings
+CAVAtraining/videos/
+
+# Climate data extract (about 1.2 GB)
+CAVAtraining/PAK/data/pakistan_tasmax.rds
+
+# Local slide-build scratch
+CAVAtraining/HQ/.codex-build/
+CAVAtraining/HQ/.codex-finalizer/
