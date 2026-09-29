@@ -12,11 +12,9 @@ Module 3 covers the software setup and practical climate-data workflows used in 
 
 | Time | Session |
 |---:|---|
-| 30 min | Environment setup: Miniforge, editor, packages, and notebook kernels |
-| 75 min | CAVAanalytics notebook: observations, projections, climate indicators, model agreement, and raster outputs |
-| 5 min | Break |
-| 60 min | cavapy notebook with Sam: retrieving and preparing climate data in Python |
-| 5 min | Link to Module 4: preparing climate inputs for impact modelling |
-| 5 min | Questions and next steps |
+| 09:00–09:30 | Environment setup: Miniforge, editor, packages, and notebook kernels |
+| 09:30–10:30 | CAVAanalytics notebook: practical climate analysis in R |
+| 10:30–11:00 | cavapy notebook with Sam: climate data access in Python |
+| 11:00–12:00 | **Optional hands-on session:** participant practice, troubleshooting, and questions |
 
 Training materials: <https://github.com/Risk-Team/trainings/tree/main/CAVAtraining/HQ>
