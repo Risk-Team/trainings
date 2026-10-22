@@ -32,7 +32,7 @@ if (nzchar(make_path)) {
 # -----------------------------------------------------------------------------
 cat("\n--- 2. Spatial packages (terra, sf) ---\n")
 
-for (p in c("terra", "sf")) {
+for (p in c("terra", "sf", "rnaturalearthhires")) {
   if (!requireNamespace(p, quietly = TRUE)) {
     install.packages(p, type = "binary")
   }
@@ -40,8 +40,10 @@ for (p in c("terra", "sf")) {
 
 library(terra)
 library(sf)
+library(rnaturalearthhires)
 cat("terra", as.character(packageVersion("terra")), "| sf",
-    as.character(packageVersion("sf")), "- OK\n")
+    as.character(packageVersion("sf")), "| rnaturalearthhires",
+    as.character(packageVersion("rnaturalearthhires")), "- OK\n")
 
 # -----------------------------------------------------------------------------
 # 3. Check Java / rJava (CAVAanalytics depends on it)
