@@ -85,7 +85,10 @@ print(packageVersion("remotes"))
 # -----------------------------------------------------------------------------
 cat("\n--- 5. Installing CAVAanalytics ---\n")
 
-remotes::install_github("un-fao/CAVAanalytics", dependencies = TRUE, upgrade = "never")
+if (!requireNamespace("pak", quietly = TRUE)) install.packages("pak")
+pak::pak("un-fao/CAVAanalytics")
+
+
 # -----------------------------------------------------------------------------
 # 6. Verify CAVAanalytics
 # -----------------------------------------------------------------------------
