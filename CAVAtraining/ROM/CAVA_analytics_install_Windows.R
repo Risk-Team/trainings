@@ -71,23 +71,14 @@ if (!res) stop("Fix rJava before continuing.")
 # -----------------------------------------------------------------------------
 # 4. Install pak
 # -----------------------------------------------------------------------------
-cat("\n--- 4. remotes ---\n")
-
-if (!requireNamespace("remotes", quietly = TRUE)) {
-  install.packages("remotes")
-}
-library(remotes)
-print(packageVersion("remotes"))
+if (!requireNamespace("pak", quietly = TRUE)) install.packages("pak")
 
 # -----------------------------------------------------------------------------
 # 5. Install CAVAanalytics (official repo: un-fao/CAVAanalytics)
 #    Note the lowercase "a" in "Analytics" is not a typo - use the name as shown.
 # -----------------------------------------------------------------------------
 cat("\n--- 5. Installing CAVAanalytics ---\n")
-
-if (!requireNamespace("pak", quietly = TRUE)) install.packages("pak")
 pak::pak("un-fao/CAVAanalytics")
-
 
 # -----------------------------------------------------------------------------
 # 6. Verify CAVAanalytics

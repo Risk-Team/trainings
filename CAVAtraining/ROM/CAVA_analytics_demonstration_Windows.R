@@ -26,6 +26,7 @@ getwd()
 #---------------------------------------------------------------------------------#
 ## 2. Load data
 # `load_data()` selects Mauritius, resolves the remote files, streams the required grid cells and harmonizes units and time.
+# "Mauritius_climate_ET0_tasmax.qs2" refers to a dataset downloaded during the training. Data must now be loaded separately.
 
 cache_file <- file.path("Mauritius_climate_ET0_tasmax.qs2")
 
@@ -68,6 +69,12 @@ plotting(
   plot_titles = "Mean maximum temperature (°C)",
   palette = IPCC_palette(type = "tmp", divergent = FALSE)
 )
+
+# Plots and climate data can be saved as image files or as rasters using the following code.
+# These lines must be included after each "plotting" function to save each plot.
+# Note: you need to change step2 to the name of the dataset you have generated.
+ggsave("obs_tasmax_mean.jpeg", dpi = 300)
+extract_raster(step2 = obs_mean, file.extension = "obs_tasmax_mean.tif")
 
 obs_hot_days <- observations(
   mauritius_tasmax,
